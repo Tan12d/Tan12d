@@ -1,6 +1,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Tanmoy Das </h1>
 
-![Tan12d](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJvdHBnaGZlbHBncHFwaWdjYjFtczM2aXQwa2h4OXc1aTE5MjRoMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/200.gif)
+<center>![Tan12d](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJvdHBnaGZlbHBncHFwaWdjYjFtczM2aXQwa2h4OXc1aTE5MjRoMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/200.gif)</center>
+
 
 <h1 align="center">Hi 👋, I'm TANMOY DAS
 
