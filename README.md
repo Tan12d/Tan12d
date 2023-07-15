@@ -1,4 +1,4 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Khaled Badran </h1>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Tanmoy Das </h1>
 
 <h1 align="center">Hi 👋, I'm TANMOY DAS
 
