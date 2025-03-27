@@ -90,6 +90,7 @@
 <br>
 <br>
 
+<a href="https://app.daily.dev/tanmoydas"><img src="https://api.daily.dev/devcards/v2/OMjpKsxoCgNT3qrs9fK7f.png?type=default&r=74a" width="356" alt="Tanmoy das's Dev Card"/></a>
 
 <!-- Statistics -->
 
